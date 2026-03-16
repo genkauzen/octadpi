@@ -2,19 +2,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=5865F2&center=true&vCenter=true&width=500&lines=OctaDPI" alt="OctaDPI" />
 
-[![Releases](https://img.shields.io/github/v/release/genkauzen/octadpi?style=for-the-badge&color=5865F2&label=Версия)](https://github.com/genkauzen/octadpi/releases/latest)
-[![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D4?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/genkauzen/octadpi/releases/latest)
+[![Установить](https://img.shields.io/badge/Установить-Release-5865F2?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/genkauzen/octadpi/releases/latest)
 
----
-
+<sub>🌐Octa Network</sub><br/>
 <sub>Наш VPN сервис с обходом белых списков и быстрым соединением</sub><br/>
+<sub> </sub><br/>
 [![VPN](https://img.shields.io/badge/Octa_Network-3_дня_бесплатно_·_100_₽%2Fмес-5865F2?style=flat-square&logo=telegram&logoColor=white)](https://t.me/octa_netbot)
 &nbsp;
 [![Канал](https://img.shields.io/badge/Новости-@octa__network-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/octa_network)
 
 </div>
 
----
 
 ## Что такое OctaDPI
 
