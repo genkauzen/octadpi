@@ -7,7 +7,7 @@
 <sub>🌐Octa Network</sub><br/>
 <sub>Наш VPN сервис с обходом белых списков и быстрым соединением</sub><br/>
 <sub> </sub><br/>
-[![VPN](https://img.shields.io/badge/Octa_Network-3_дня_бесплатно_·_100_₽%2Fмес-5865F2?style=flat-square&logo=telegram&logoColor=white)](https://t.me/octa_netbot)
+[![VPN](https://img.shields.io/badge/Octa_Network-3_дня_бесплатно_·_150_₽%2Fмес-5865F2?style=flat-square&logo=telegram&logoColor=white)](https://t.me/octa_netbot)
 &nbsp;
 [![Канал](https://img.shields.io/badge/Новости-@octa__network-229ED9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/octa_network)
 
